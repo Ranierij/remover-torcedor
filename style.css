@@ -1,0 +1,21 @@
+* {
+  background-color: rgb(242, 243, 246);
+  color: rgb(203, 8, 21);
+  font-size: 25px;
+}
+h1 {
+  font-size: 30px;
+  color: rgb(75, 9, 75);
+}
+button {
+  background-color: rgb(179, 141, 236);
+  border: 2px solid brown;
+  border-radius: 20px;
+}
+button:hover {
+  background-color: rgb(59, 113, 5);
+  color: rgb(252, 4, 4);
+}
+:placeholder-shown {
+  font-size: 20px;
+}
